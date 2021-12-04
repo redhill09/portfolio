@@ -11,7 +11,7 @@
 	$useraccess = $_SESSION['useraccess'];
 	
 	include_once("r_core_config/r_config_path.class.php");
-	include_once("r_core_config/r_config_hashing.class.php");
+	//include_once("r_core_config/r_config_hashing.class.php");
 	include_once("r_core_config/r_config_link.class.php");
 	
    
